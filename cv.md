@@ -6,7 +6,6 @@
 * **Discord:** Milena(@Milena-Belianova)
 * **Telegram:** Milena Belianova
 * **Phone:** +79871672847
-* **EPAM E-mail:** milena_belianova@epam.com
 * **E-mail:** milena.belianova@gmail.com
 
 ## About Me
