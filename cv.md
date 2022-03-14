@@ -36,16 +36,18 @@ const deepCount = (a) => {
 * [js30-2.2-image-galery](https://rolling-scopes-school.github.io/milena-belianova-JSFEPRESCHOOL/js30-2.2-image-galery/)
 * [js30-3.2-memory-game](https://rolling-scopes-school.github.io/milena-belianova-JSFEPRESCHOOL/js30-3.2-memory-game/)
 
+## Education 
+* **Kaliningrad State Technical University** 
+    - _Applied Information Science in Economics_
+* **RS School**
+    - [JavaScript/Front-end. Stage 0](https://rs.school/js-stage0/)
+
 ## Work Experience
  1. **Jun, 2016 - Till Now** 
      * EPAM Systems, _Senior Software Testing Engineer_
  2. **Jan, 2011 - Dec, 2015** 
      * I was working as an _accountant_ in several different  companies. 
-    
-## Education 
-* **Kaliningrad State Technical University** 
-    - _Applied Information Science in Economics_
-
+  
 ## Languages
 * English - **B2** (According to EPAM English testing)
 * Russian - **native**
