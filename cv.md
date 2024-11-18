@@ -29,7 +29,6 @@ const deepCount = (a) => {
 ```
 
 ## Projects
-* [CV](https://milena-belianova.github.io/rsschool-cv-stage0/)
 * [portfolio](https://rolling-scopes-school.github.io/milena-belianova-JSFEPRESCHOOL/portfolio/)
 * [js30-1.1-eco-sounds](https://rolling-scopes-school.github.io/milena-belianova-JSFEPRESCHOOL/js30-1.1-eco-sounds/)
 * [js30-2.2-image-galery](https://rolling-scopes-school.github.io/milena-belianova-JSFEPRESCHOOL/js30-2.2-image-galery/)
